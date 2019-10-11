@@ -1,0 +1,13 @@
+C:\Users\Gurvir\Desktop\calculoMental\calculoMental\bin\Debug\calculoMental.exe.config
+C:\Users\Gurvir\Desktop\calculoMental\calculoMental\bin\Debug\calculoMental.exe
+C:\Users\Gurvir\Desktop\calculoMental\calculoMental\bin\Debug\calculoMental.pdb
+C:\Users\Gurvir\Desktop\calculoMental\calculoMental\bin\Debug\calculoMental.xml
+C:\Users\Gurvir\Desktop\calculoMental\calculoMental\obj\Debug\calculoMental.vbprojAssemblyReference.cache
+C:\Users\Gurvir\Desktop\calculoMental\calculoMental\obj\Debug\calculoMental.Form1.resources
+C:\Users\Gurvir\Desktop\calculoMental\calculoMental\obj\Debug\calculoMental.Form2.resources
+C:\Users\Gurvir\Desktop\calculoMental\calculoMental\obj\Debug\calculoMental.Resources.resources
+C:\Users\Gurvir\Desktop\calculoMental\calculoMental\obj\Debug\calculoMental.vbproj.GenerateResource.cache
+C:\Users\Gurvir\Desktop\calculoMental\calculoMental\obj\Debug\calculoMental.vbproj.CoreCompileInputs.cache
+C:\Users\Gurvir\Desktop\calculoMental\calculoMental\obj\Debug\calculoMental.exe
+C:\Users\Gurvir\Desktop\calculoMental\calculoMental\obj\Debug\calculoMental.xml
+C:\Users\Gurvir\Desktop\calculoMental\calculoMental\obj\Debug\calculoMental.pdb

@@ -1,0 +1,12 @@
+C:\Users\Gurvir\Desktop\numerosPrimos\numerosPrimos\bin\Debug\numerosPrimos.exe.config
+C:\Users\Gurvir\Desktop\numerosPrimos\numerosPrimos\bin\Debug\numerosPrimos.exe
+C:\Users\Gurvir\Desktop\numerosPrimos\numerosPrimos\bin\Debug\numerosPrimos.pdb
+C:\Users\Gurvir\Desktop\numerosPrimos\numerosPrimos\bin\Debug\numerosPrimos.xml
+C:\Users\Gurvir\Desktop\numerosPrimos\numerosPrimos\obj\Debug\numerosPrimos.vbprojAssemblyReference.cache
+C:\Users\Gurvir\Desktop\numerosPrimos\numerosPrimos\obj\Debug\numerosPrimos.Form1.resources
+C:\Users\Gurvir\Desktop\numerosPrimos\numerosPrimos\obj\Debug\numerosPrimos.Resources.resources
+C:\Users\Gurvir\Desktop\numerosPrimos\numerosPrimos\obj\Debug\numerosPrimos.vbproj.GenerateResource.cache
+C:\Users\Gurvir\Desktop\numerosPrimos\numerosPrimos\obj\Debug\numerosPrimos.vbproj.CoreCompileInputs.cache
+C:\Users\Gurvir\Desktop\numerosPrimos\numerosPrimos\obj\Debug\numerosPrimos.exe
+C:\Users\Gurvir\Desktop\numerosPrimos\numerosPrimos\obj\Debug\numerosPrimos.xml
+C:\Users\Gurvir\Desktop\numerosPrimos\numerosPrimos\obj\Debug\numerosPrimos.pdb

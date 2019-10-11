@@ -1,0 +1,12 @@
+C:\Users\Gurvir\Desktop\POO\POO\obj\Debug\POO.vbprojAssemblyReference.cache
+C:\Users\Gurvir\Desktop\POO\POO\obj\Debug\POO.Form1.resources
+C:\Users\Gurvir\Desktop\POO\POO\obj\Debug\POO.Resources.resources
+C:\Users\Gurvir\Desktop\POO\POO\obj\Debug\POO.vbproj.GenerateResource.cache
+C:\Users\Gurvir\Desktop\POO\POO\obj\Debug\POO.vbproj.CoreCompileInputs.cache
+C:\Users\Gurvir\Desktop\POO\POO\bin\Debug\POO.exe.config
+C:\Users\Gurvir\Desktop\POO\POO\bin\Debug\POO.exe
+C:\Users\Gurvir\Desktop\POO\POO\bin\Debug\POO.pdb
+C:\Users\Gurvir\Desktop\POO\POO\bin\Debug\POO.xml
+C:\Users\Gurvir\Desktop\POO\POO\obj\Debug\POO.exe
+C:\Users\Gurvir\Desktop\POO\POO\obj\Debug\POO.xml
+C:\Users\Gurvir\Desktop\POO\POO\obj\Debug\POO.pdb

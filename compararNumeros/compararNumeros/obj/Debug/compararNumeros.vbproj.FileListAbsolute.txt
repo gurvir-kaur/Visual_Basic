@@ -1,0 +1,12 @@
+C:\Users\Gurvir\Desktop\compararNumeros\compararNumeros\bin\Debug\compararNumeros.exe.config
+C:\Users\Gurvir\Desktop\compararNumeros\compararNumeros\bin\Debug\compararNumeros.exe
+C:\Users\Gurvir\Desktop\compararNumeros\compararNumeros\bin\Debug\compararNumeros.pdb
+C:\Users\Gurvir\Desktop\compararNumeros\compararNumeros\bin\Debug\compararNumeros.xml
+C:\Users\Gurvir\Desktop\compararNumeros\compararNumeros\obj\Debug\compararNumeros.vbprojAssemblyReference.cache
+C:\Users\Gurvir\Desktop\compararNumeros\compararNumeros\obj\Debug\compararNumeros.Form1.resources
+C:\Users\Gurvir\Desktop\compararNumeros\compararNumeros\obj\Debug\compararNumeros.Resources.resources
+C:\Users\Gurvir\Desktop\compararNumeros\compararNumeros\obj\Debug\compararNumeros.vbproj.GenerateResource.cache
+C:\Users\Gurvir\Desktop\compararNumeros\compararNumeros\obj\Debug\compararNumeros.vbproj.CoreCompileInputs.cache
+C:\Users\Gurvir\Desktop\compararNumeros\compararNumeros\obj\Debug\compararNumeros.exe
+C:\Users\Gurvir\Desktop\compararNumeros\compararNumeros\obj\Debug\compararNumeros.xml
+C:\Users\Gurvir\Desktop\compararNumeros\compararNumeros\obj\Debug\compararNumeros.pdb

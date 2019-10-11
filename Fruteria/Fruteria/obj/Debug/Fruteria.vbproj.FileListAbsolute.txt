@@ -1,0 +1,12 @@
+C:\Users\Ramandeep Kaur\Desktop\Fruteria\Fruteria\bin\Debug\Fruteria.exe.config
+C:\Users\Ramandeep Kaur\Desktop\Fruteria\Fruteria\bin\Debug\Fruteria.exe
+C:\Users\Ramandeep Kaur\Desktop\Fruteria\Fruteria\bin\Debug\Fruteria.pdb
+C:\Users\Ramandeep Kaur\Desktop\Fruteria\Fruteria\bin\Debug\Fruteria.xml
+C:\Users\Ramandeep Kaur\Desktop\Fruteria\Fruteria\obj\Debug\Fruteria.vbprojAssemblyReference.cache
+C:\Users\Ramandeep Kaur\Desktop\Fruteria\Fruteria\obj\Debug\Fruteria.Form1.resources
+C:\Users\Ramandeep Kaur\Desktop\Fruteria\Fruteria\obj\Debug\Fruteria.Resources.resources
+C:\Users\Ramandeep Kaur\Desktop\Fruteria\Fruteria\obj\Debug\Fruteria.vbproj.GenerateResource.cache
+C:\Users\Ramandeep Kaur\Desktop\Fruteria\Fruteria\obj\Debug\Fruteria.vbproj.CoreCompileInputs.cache
+C:\Users\Ramandeep Kaur\Desktop\Fruteria\Fruteria\obj\Debug\Fruteria.exe
+C:\Users\Ramandeep Kaur\Desktop\Fruteria\Fruteria\obj\Debug\Fruteria.xml
+C:\Users\Ramandeep Kaur\Desktop\Fruteria\Fruteria\obj\Debug\Fruteria.pdb

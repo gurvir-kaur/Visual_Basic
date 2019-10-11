@@ -1,0 +1,12 @@
+C:\Users\Ramandeep Kaur\Desktop\PrimerasOperaciones\PrimerasOperaciones\bin\Debug\PrimerasOperaciones.exe.config
+C:\Users\Ramandeep Kaur\Desktop\PrimerasOperaciones\PrimerasOperaciones\bin\Debug\PrimerasOperaciones.exe
+C:\Users\Ramandeep Kaur\Desktop\PrimerasOperaciones\PrimerasOperaciones\bin\Debug\PrimerasOperaciones.pdb
+C:\Users\Ramandeep Kaur\Desktop\PrimerasOperaciones\PrimerasOperaciones\bin\Debug\PrimerasOperaciones.xml
+C:\Users\Ramandeep Kaur\Desktop\PrimerasOperaciones\PrimerasOperaciones\obj\Debug\PrimerasOperaciones.vbprojAssemblyReference.cache
+C:\Users\Ramandeep Kaur\Desktop\PrimerasOperaciones\PrimerasOperaciones\obj\Debug\PrimerasOperaciones.Form1.resources
+C:\Users\Ramandeep Kaur\Desktop\PrimerasOperaciones\PrimerasOperaciones\obj\Debug\PrimerasOperaciones.Resources.resources
+C:\Users\Ramandeep Kaur\Desktop\PrimerasOperaciones\PrimerasOperaciones\obj\Debug\PrimerasOperaciones.vbproj.GenerateResource.cache
+C:\Users\Ramandeep Kaur\Desktop\PrimerasOperaciones\PrimerasOperaciones\obj\Debug\PrimerasOperaciones.vbproj.CoreCompileInputs.cache
+C:\Users\Ramandeep Kaur\Desktop\PrimerasOperaciones\PrimerasOperaciones\obj\Debug\PrimerasOperaciones.exe
+C:\Users\Ramandeep Kaur\Desktop\PrimerasOperaciones\PrimerasOperaciones\obj\Debug\PrimerasOperaciones.xml
+C:\Users\Ramandeep Kaur\Desktop\PrimerasOperaciones\PrimerasOperaciones\obj\Debug\PrimerasOperaciones.pdb
